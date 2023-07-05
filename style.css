@@ -1,0 +1,12 @@
+#cadastro form{
+    width: 10%;
+}
+#cadastro form label{
+    background-color: blanchedalmond;
+}
+#cadastro form select option{
+    background-color: yellow;
+}
+#cadastro form input#botao{
+    background-color: blanchedalmond
+}
